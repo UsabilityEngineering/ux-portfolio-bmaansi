@@ -8,7 +8,9 @@ The PoseMy.Art interface demonstrates Error Prevention and User control and free
 
 
 The one thing that doesn’t make you give up while using this app is User control and freedom, it is easy to make mistakes but being able to undo (Ctrl+Z) and redo (Ctrl+Y) is a godsend. When posing the character it is easy to feel overwhelmed. There are so many points that can be moved and even though I have an idea of the pose I want it won’t come out like I want. I want the pose to look as natural as possible, but since you are able to contort the figure any which way it rarely does. 
+
 <img width="309" alt="Screenshot 2023-10-13 181513" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/b480e467-998d-499d-9db5-ae73401654ed">
+
 <img width="368" alt="Screenshot 2023-10-13 191120" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/a4b062fa-f4a7-4388-bd9d-aa572250fb6b">
 
 
