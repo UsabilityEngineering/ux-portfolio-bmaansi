@@ -6,6 +6,7 @@ The PoseMy.Art interface demonstrates **Error Prevention** and **User control an
 
 <img width="960" alt="Screenshot 2023-10-13 180423" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/57fbf568-89c1-4d09-8efa-a7d44aa86880">
 
+
 Before you begin drawing it is common to have multiple references, such as the setting, outfits, props, and pose. Many times I will have an idea I want but without a reference, the sketches will look abnormal. With PoseMy.Art I can create poses along with angles that would be difficult to find otherwise. Although I can envision the pose I want it will not necessarily turn out how I expected. When posing the character, it is easy to make mistakes but being able to undo (Ctrl+Z) and redo (Ctrl+Y) is a godsend. Since the joints can be rotated anyway, it will cause the pose to be abnormal. No artist wants the pose to look unnatural in a reference because that is the foundation of your drawing.
 
 <img width="309" alt="Screenshot 2023-10-13 181513" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/b480e467-998d-499d-9db5-ae73401654ed">
