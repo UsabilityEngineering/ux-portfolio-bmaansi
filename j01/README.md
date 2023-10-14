@@ -14,6 +14,7 @@ Before you begin drawing it is common to have multiple references, such as the s
 
 
 Though making your own pose is a hassle, you can bypass that easily by choosing one of their premade ones. There is a large selection to choose from but no category, so it can be hard to find what you are looking for. Since the poses are premade, there is no concern about the poses looking unusual. 
+
 <img width="672" alt="Screenshot 2023-10-13 183539" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/5b72b224-ba45-49a3-8fef-23f0df903148">
 
 
