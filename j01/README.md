@@ -32,7 +32,8 @@ https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/e0
 ## With shadow on
 https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/97d6f911-9026-4065-a8d0-ac4ef4d59fa8
 
-![Uploading PoseMy.Art - Brave 2023-10-13 19-22-40.gif…]()
+![PoseMy Art - Brave 2023-10-13 19-22-40](https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/284fa8b0-11c3-4518-b09e-155ad0d69fbe)
+
 
 
 The problem with the shadows can be inconvenient but to use the feature I would suggest screenshotting the reference you create with the shadows on. Turn off the shadow to avoid your laptop crashing or lagging for too long. I would also suggest sticking to the premade poses, there is a big variety and it is much easier than creating one on your own.
