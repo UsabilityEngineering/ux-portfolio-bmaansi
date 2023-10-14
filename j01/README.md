@@ -2,7 +2,7 @@
 
 I use [PoseMy.Art](https://app.posemy.art/) to create and pick poses for reference when drawing. It is an easy solution when you have a pose in mind but cannot find a real person posing or you want a pose from a certain angle. They offer many features, like premade pose, lighting, and props so users can customize however they wish. 
 
-The PoseMy.Art interface demonstrates **Error Prevention** and **User control and freedom**, two of the 10 Usability Heuristics for User Interface Design. These are the most important UI Designs that could have been provided because this application is not **learnable**. As you can see below there are many options for what to do with the model and many repeat symbols, that mean different things. 
+The PoseMy.Art interface demonstrates **Error Prevention** and **User control and freedom**, two of the [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) for User Interface Design. These are the most important UI Designs that could have been provided because this application is not **learnable**. As you can see below there are many options for what to do with the model and many repeat symbols, that mean different things. 
 
 <img width="960" alt="Screenshot 2023-10-13 180423" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/57fbf568-89c1-4d09-8efa-a7d44aa86880">
 
