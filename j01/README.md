@@ -7,7 +7,7 @@ The PoseMy.Art interface demonstrates **Error Prevention** and **User control an
 <img width="960" alt="Screenshot 2023-10-13 180423" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/57fbf568-89c1-4d09-8efa-a7d44aa86880">
 
 
-The one thing that doesn’t make you give up while using this app is User control and freedom, it is easy to make mistakes but being able to undo (Ctrl+Z) and redo (Ctrl+Y) is a godsend. When posing the character it is easy to feel overwhelmed. There are so many points that can be moved and even though I have an idea of the pose I want it won’t come out like I want. I want the pose to look as natural as possible, but since you are able to contort the figure any which way it rarely does. 
+The one thing that doesn’t make you give up while using this app is User control and freedom, it is easy to make mistakes but being able to undo (Ctrl+Z) and redo (Ctrl+Y) is a godsend. When posing the character, it is easy to feel overwhelmed. There are so many points that can be moved and even though I have an idea of the pose I want it won’t come out like I want. I want the pose to look as natural as possible, but since you are able to contort the figure any which way it rarely does. 
 
 <img width="309" alt="Screenshot 2023-10-13 181513" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/b480e467-998d-499d-9db5-ae73401654ed">
 
@@ -18,7 +18,9 @@ Though making your own pose is a hassle, you can bypass that easily by choosing 
 <img width="672" alt="Screenshot 2023-10-13 183539" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/5b72b224-ba45-49a3-8fef-23f0df903148">
 
 
-A **useful** feature available is locking the figures, camera, and lighting into place. There is no concern about misclicking and losing everything. **Error Prevention** like this relaxes me because I don’t have to worry about losing the pose I made or it changing in the middle of me drawing. Even though they have undo and redo it only applies to the poses and lighting. In this reference, we have a good camera angle, a dynamic pose, and lighting but we’re still missing something; shadows. Before I turn on the shadow, I need to make sure everything looks good because shadows will cause the website to run slowly. It does not feel **safe**, I worry that my laptop will crash every time I turn it on, especially because when it is running in the background with shadow on it will lag my laptop. 
+A **useful** feature available is locking the figures, camera, and lighting into place. There is no concern about misclicking and losing everything. **Error Prevention** like this relaxes me because I don’t have to worry about losing the pose I made or it changing in the middle of me drawing. Even though they have undo and redo it only applies to the poses and lighting. 
+
+In the reference, we have a good camera angle, a dynamic pose, and lighting but we’re still missing something; shadows. Before I turn on the shadow, I need to make sure everything looks good because shadows will cause the website to run slowly. It does not feel **safe**, I worry that my laptop will crash every time I turn it on, especially because when it is running in the background with shadow on it will lag my laptop. 
 
 
 ## With shadow off 
