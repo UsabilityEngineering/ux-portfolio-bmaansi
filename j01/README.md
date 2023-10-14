@@ -26,7 +26,13 @@ In the reference above, we have a good camera angle, a dynamic pose, and lightin
 ## With shadow off 
 https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/e0c7cd0b-fd8c-4784-a6c4-894c7384253b
 
+![PoseMy Art - Brave 2023-10-13 19-21-40](https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/5a692543-360b-4685-937e-6c0ebe4b528f)
+
+
 ## With shadow on
 https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/97d6f911-9026-4065-a8d0-ac4ef4d59fa8
+
+![Uploading PoseMy.Art - Brave 2023-10-13 19-22-40.gif…]()
+
 
 The problem with the shadows can be inconvenient but to use the feature I would suggest screenshotting the reference you create with the shadows on. Turn off the shadow to avoid your laptop crashing or lagging for too long. I would also suggest sticking to the premade poses, there is a big variety and it is much easier than creating one on your own.
