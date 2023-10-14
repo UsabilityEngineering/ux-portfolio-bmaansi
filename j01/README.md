@@ -24,14 +24,10 @@ A **useful** feature available is locking the figures, camera, and lighting into
 In the reference above, we have a good camera angle, a dynamic pose, and lighting but we’re still missing something: shadows. Before I turn on the shadow, I need to ensure everything looks how I want it to look, because adding shadows will cause the website to run slowly. It does not feel **safe**, I worry that my laptop will crash every time I turn it on. Especially when the program is running with the shadows on in the background my laptop will lag. 
 
 ## With shadow off 
-https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/e0c7cd0b-fd8c-4784-a6c4-894c7384253b
-
 ![PoseMy Art - Brave 2023-10-13 19-21-40](https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/5a692543-360b-4685-937e-6c0ebe4b528f)
 
 
 ## With shadow on
-https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/97d6f911-9026-4065-a8d0-ac4ef4d59fa8
-
 ![PoseMy Art - Brave 2023-10-13 19-22-40](https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/284fa8b0-11c3-4518-b09e-155ad0d69fbe)
 
 
