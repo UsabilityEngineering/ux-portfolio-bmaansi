@@ -1,6 +1,6 @@
 # Generating a Reference
 
-I use PoseMy.Art to create and pick poses for reference when drawing. It is an easy solution when you have a pose in mind but cannot find a real person posing or you want a pose from a certain angle. They offer many features, like premade pose, lighting, and props so users can customize however they wish. 
+I use [PoseMy.Art](https://app.posemy.art/) to create and pick poses for reference when drawing. It is an easy solution when you have a pose in mind but cannot find a real person posing or you want a pose from a certain angle. They offer many features, like premade pose, lighting, and props so users can customize however they wish. 
 
 The PoseMy.Art interface demonstrates **Error Prevention** and **User control and freedom**, two of the 10 Usability Heuristics for User Interface Design. These are the most important UI Designs that could have been provided because this application is not **learnable**. As you can see below there are many options for what to do with the model and many repeat symbols, that mean different things. 
 
