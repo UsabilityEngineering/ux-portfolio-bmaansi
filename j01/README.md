@@ -6,6 +6,7 @@ The interface of this website is not learnable. It has many repeated icons that 
 
 <img width="957" alt="Screenshot 2023-12-12 155959" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/3a881fa8-bc73-4ab7-878f-43762ac4fb07">
 <img width="960" alt="Screenshot 2023-12-12 155811" src="https://github.com/UsabilityEngineering/ux-portfolio-bmaansi/assets/117888435/f2e9464a-1921-45d0-aad8-cbcbfd2146b1">
+
 As you can see in the pictures above, changing the character is nested, and there are many icons the user would have to look through to figure out what does what. This has low **visibility**.
 
 The PoseMy.Art interface demonstrates **Error Prevention** and **User control and freedom**, two of the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). These are the two most important usability heuristics that could have been provided because the application is not learnable. When posing the character, it is easy to make mistakes but the website has common convention that most websites use for shortcuts. It allows the use of undo (Ctrl+Z) and redo (Ctrl+Y), and clickable undo/redo easily identifiable icons. 
